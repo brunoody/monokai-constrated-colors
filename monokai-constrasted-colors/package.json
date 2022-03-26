@@ -1,0 +1,21 @@
+{
+    "name": "monokai-constrasted-colors",
+    "displayName": "Monokai Constrasted Colors",
+    "description": "Monokai Dark Theme with tweaked colors for faster reading and lesser eye damage.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai (Constrasted Colors)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai (Constrasted Colors)-color-theme.json"
+            }
+        ]
+    }
+}
