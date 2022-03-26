@@ -2,7 +2,7 @@
     "name": "monokai-constrasted-colors",
     "displayName": "Monokai Constrasted Colors",
     "description": "Monokai Dark Theme with tweaked colors for faster reading and lesser eye damage.",
-    "publisher": "Monokai, Bruno G. Ody",
+    "publisher": "BrunoGOdy",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.65.0"
